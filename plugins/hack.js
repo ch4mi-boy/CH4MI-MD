@@ -42,7 +42,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '*📡 Transmitting data...* 📤',
             '*🕵️‍♂️ Ensuring stealth...* 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            '*🔧 Kerm Get Your All Data...* 🎁',
+            '*🔧 ch4mi Get Your All Data...* 🎁',
             '',
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
