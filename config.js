@@ -12,7 +12,7 @@ AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/xXZZQrk/a0cbc8b9a3873386.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "📍│hey i'am alive now...💗💐
+ALIVE_MSG: process.env.ALIVE_MSG || "hey i'am alive now...💗💐
 
 
 📍│ᴄʜ4ᴍɪ | ᴍᴅ 🐭🩵
